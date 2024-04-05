@@ -1,0 +1,15 @@
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\bin\Debug\net8.0\PremierProgramme.exe
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\bin\Debug\net8.0\PremierProgramme.deps.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\bin\Debug\net8.0\PremierProgramme.runtimeconfig.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\bin\Debug\net8.0\PremierProgramme.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\bin\Debug\net8.0\PremierProgramme.pdb
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.AssemblyInfoInputs.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.AssemblyInfo.cs
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.csproj.CoreCompileInputs.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.sourcelink.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\refint\PremierProgramme.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.pdb
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\PremierProgramme.genruntimeconfig.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\PremierProgramme\PremierProgramme\obj\Debug\net8.0\ref\PremierProgramme.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Th\u00E9o\\Documents\\Cours\\Udemy\\C#\\Udemy_course_CSharp_01\\Projets\\Jeu_de_maths\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78168973-7286-47D5-AF9F-6A982893C60D}|Jeu_de_maths\\Jeu_de_maths.csproj|c:\\users\\th\u00E9o\\documents\\cours\\udemy\\c#\\udemy_course_csharp_01\\projets\\jeu_de_maths\\jeu_de_maths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78168973-7286-47D5-AF9F-6A982893C60D}|Jeu_de_maths\\Jeu_de_maths.csproj|solutionrelative:jeu_de_maths\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Th\u00E9o\\Documents\\Cours\\Udemy\\C#\\Udemy_course_CSharp_01\\Projets\\Jeu_de_maths\\Jeu_de_maths\\Program.cs",
+              "RelativeDocumentMoniker": "Jeu_de_maths\\Program.cs",
+              "ToolTip": "C:\\Users\\Th\u00E9o\\Documents\\Cours\\Udemy\\C#\\Udemy_course_CSharp_01\\Projets\\Jeu_de_maths\\Jeu_de_maths\\Program.cs",
+              "RelativeToolTip": "Jeu_de_maths\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv2IAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:05:12.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.exe
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.deps.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.runtimeconfig.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\bin\Debug\net8.0\Nombre_Magique.pdb
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.AssemblyInfoInputs.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.AssemblyInfo.cs
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.csproj.CoreCompileInputs.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.sourcelink.json
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\refint\Nombre_Magique.dll
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.pdb
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\Nombre_Magique.genruntimeconfig.cache
+C:\Users\Théo\Documents\Cours\Udemy\C#\Udemy_course_CSharp_01\Projets\Nombre_Magique\Nombre_Magique\obj\Debug\net8.0\ref\Nombre_Magique.dll
